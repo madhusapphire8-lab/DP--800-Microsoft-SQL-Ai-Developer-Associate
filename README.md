@@ -36,6 +36,8 @@ https://lnkd.in/dBNz2E_c
 ✅ Integrate SQL solutions with Azure services
 https://lnkd.in/dCcxEKFM
 
+MICROSOFT REACTOR SESSIONS https://youtube.com/playlist?list=PLmsFUfdnGr3xam8XcZNxRS2I35dFRAFqI&si=mlyrAkA1oXxKGG8a
+
 📚Dp800 Study Guide
 https://lnkd.in/d8T2V5BS
 
