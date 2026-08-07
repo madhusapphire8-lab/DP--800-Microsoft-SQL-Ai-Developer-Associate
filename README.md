@@ -41,4 +41,6 @@ MICROSOFT REACTOR SESSIONS https://youtube.com/playlist?list=PLmsFUfdnGr3xam8XcZ
 📚Dp800 Study Guide
 https://lnkd.in/d8T2V5BS
 
+🎯Bob Ward's SQL Server 2025 book -> https://www.amazon.com/SQL-Server-2025-Unveiled-Integration/dp/B0FH1P9B2Y
+
 Happy learning, and best of luck on your certification journey! 🚀
